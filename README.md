@@ -1,6 +1,7 @@
 ## 关于
 
-这里是 leiyuanze 在 GitHub 上的主页，日常更新都在博客。
+这个仓库只做一件事：把 GitHub Pages 首页跳转到博客园。
+（博客主题的源码在 [cnblogs-theme](https://github.com/leiyuanze/cnblogs-theme)）
 
 ## 链接
 
